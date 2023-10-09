@@ -1,0 +1,31 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: magenta;
+}
+
+.submitBtn {
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+button {
+    width: 100px;
+    height: 40px;
+    color: tomato;
+    font-family: "Comic Sans MS", serif;
+    font-size: 25px;
+}
+
+.main {
+    font-family: "Comic Sans MS", serif;
+    color: red;
+}
